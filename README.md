@@ -84,16 +84,10 @@ project/
 ### Home & Navigation
 ![Home 1](project/components/ss/1.png)
 ![Home 2](project/components/ss/2.png)
-
-### Artisan Experience
 ![Artisan 1](project/components/ss/3.png)
 ![Artisan 2](project/components/ss/4.png)
-
-### NGO Experience
 ![NGO 1](project/components/ss/5.png)
 ![NGO 2](project/components/ss/6.png)
-
-### Additional Views
 ![View 1](project/components/ss/7.png)
 ![View 2](project/components/ss/8.png)
 
