@@ -97,10 +97,6 @@ project/
 - Architecture is ready for backend/API integration.
 - Designed for accessibility and mobile responsiveness.
 
-## Contributors
-
-- **kavisha1902** - Lead Developer
-
 ---
 
 Built for artisan empowerment and NGO collaboration.
